@@ -1,0 +1,1 @@
+This repository contains message definitions for the *rosinante_bprotect_interface* package.
